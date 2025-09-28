@@ -1,1 +1,2 @@
 # magick-gods-physics
+# This is a repo dedicated for discussions regarding statistical analysis of effectiveness of magick and divinations, understaning human behaviors through ancient scripts and comparative religions, and contemporary studies in various fields of science.
